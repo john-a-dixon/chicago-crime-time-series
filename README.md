@@ -2,6 +2,12 @@
 
 ## Overview
 
+### Goal
+
+Given decades worth of Chicago crime data, provide stakeholders with various trends in crime based on facets of time.  
+
+### Data
+
 ## Results
 
 ## Dashboard
