@@ -21,29 +21,29 @@ Some visual results are as follows:
 </p>
 
 <p align="center">
-  <img src="/Assets/" width="100%" height="100%">
+  <img src="/Assets/crimes-across-the-years.png" width="90%" height="90%">
 </p>
 
 <p align="center">
-  <img src="/Assets/" width="100%" height="100%">
+  <img src="/Assets/crime-opposite.png" width="90%" height="90%">
 </p>
 
 <p align="center">
-  <img src="/Assets/" width="100%" height="100%">
+  <img src="/Assets/crime-rush-hour.png" width="90%" height="90%">
 </p>
 
 <p align="center">
-  <img src="/Assets/" width="100%" height="100%">
+  <img src="/Assets/crimes-rush-hour-top.png" width="90%" height="90%">
 </p>
 
 <p align="center">
-  <img src="/Assets/" width="100%" height="100%">
+  <img src="/Assets/motor-vehicle-rush-hour.png" width="90%" height="90%">
 </p>
 
 ## Dashboard
 
 <p align="center">
-  <img src="/Assets/Dashboard.png" width="100%" height="100%">
+  <img src="/Assets/Dashboard.png" width="90%" height="90%">
 </p>
 
 Link: https://public.tableau.com/views/Project4Dashboard_16873784861530/MainDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
