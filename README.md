@@ -14,6 +14,32 @@ A preview of the data can be view [here](https://data.cityofchicago.org/Public-S
 
 ## Results
 
+Some visual results are as follows:
+
+<p align="center">
+  <img src="/Assets/crime-district.png" width="100%" height="100%">
+</p>
+
+<p align="center">
+  <img src="/Assets/" width="100%" height="100%">
+</p>
+
+<p align="center">
+  <img src="/Assets/" width="100%" height="100%">
+</p>
+
+<p align="center">
+  <img src="/Assets/" width="100%" height="100%">
+</p>
+
+<p align="center">
+  <img src="/Assets/" width="100%" height="100%">
+</p>
+
+<p align="center">
+  <img src="/Assets/" width="100%" height="100%">
+</p>
+
 ## Dashboard
 
 <p align="center">
