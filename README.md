@@ -17,7 +17,7 @@ A preview of the data can be view [here](https://data.cityofchicago.org/Public-S
 Some visual results are as follows:
 
 <p align="center">
-  <img src="/Assets/crime-district.png" width="100%" height="100%">
+  <img src="/Assets/crime-district.png" width="90%" height="90%">
 </p>
 
 <p align="center">
