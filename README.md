@@ -27,6 +27,8 @@ Some visual results are as follows:
 
 > _**Note:** The notebook has a more detailed explanation of why District 31 has the least crime as opposed to District 21._
 
+### Crimes Across The Years 
+
 <p align="center">
   <img src="/Assets/crimes-across-the-years.png" width="90%" height="90%">
 </p>
@@ -34,6 +36,8 @@ Some visual results are as follows:
 <p align="center">
   <img src="/Assets/crime-opposite.png" width="90%" height="90%">
 </p>
+
+Crimes in AM v. PM Rush Hour
 
 <p align="center">
   <img src="/Assets/crime-rush-hour.png" width="90%" height="90%">
