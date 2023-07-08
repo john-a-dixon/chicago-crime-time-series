@@ -16,9 +16,16 @@ A preview of the data can be view [here](https://data.cityofchicago.org/Public-S
 
 Some visual results are as follows:
 
+### Crimes By District
+
 <p align="center">
   <img src="/Assets/crime-district.png" width="90%" height="90%">
 </p>
+
+- District 8 has the most crime.
+- District 31 has the least crime.
+
+> _**Note:** The notebook has a more detailed explanation of why District 31 has the least crime as opposed to District 21._
 
 <p align="center">
   <img src="/Assets/crimes-across-the-years.png" width="90%" height="90%">
