@@ -33,9 +33,13 @@ Some visual results are as follows:
   <img src="/Assets/crimes-across-the-years.png" width="90%" height="90%">
 </p>
 
+- Crime is generally decreasing across the years.
+
 <p align="center">
   <img src="/Assets/crime-opposite.png" width="90%" height="90%">
 </p>
+
+- The above crimes are increasing while the overall crime is decreasing.
 
 Crimes in AM v. PM Rush Hour
 
