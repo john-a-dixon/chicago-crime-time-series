@@ -37,7 +37,7 @@ Some visual results are as follows:
 </p>
 
 <p align="center">
-  <img src="/Assets/motor-vehicle-rush-hour.png" width="90%" height="90%">
+  <img src="/Assets/motor-vehicle-rush-hour.png" width="50%" height="50%">
 </p>
 
 ## Dashboard
